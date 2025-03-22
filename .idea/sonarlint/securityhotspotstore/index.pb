@@ -11,3 +11,7 @@ Q
 !tests/device-registration.test.ts,e/9/e93fb2a5e55c1d2b7f63f3fd2ee4fa29126d3d79
 M
 contracts/design-sharing.clar,f/8/f8b14f4f52a116f287756170bc6a8b92012236ca
+L
+tests/design-sharing.test.ts,b/b/bb982f6cd666c9b75ebc3678005efc789fe15545
+=
+Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
